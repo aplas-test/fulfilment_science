@@ -9,14 +9,13 @@
       "description": "Exclusive optimizing framework",
       "categoryId": "finance",
       "applicationSize": "medium",
-      "status": "standard",
       "licensing_cost": "187",
       "vendor_phone": "+359 105 189 4915",
       "status_color": "#00FF00",
       "department": "Engineering",
       "hostedtype": "OnPremise",
       "deployment_date": "13/2/15",
-      "investment_number": "262",
+      "investment_number": 262,
       "type": "OffShelf",
       "sme_email": "Gabriellia.Mozzetti@memento.net.au",
       "investment_24m": "880",
@@ -25,11 +24,11 @@
       "support_cost": "431",
       "vendor_contact_name": "Tabbitha Begin",
       "end_of_life": "1/4/19",
-      "months_to_renew_support": "27",
+      "months_to_renew_support": 27,
       "end_of_maintenance": "4/6/17",
       "integrations": [
         {
-          "assetId": "int-312",
+          "id": "int-312",
           "name": "INT-312",
           "shortName": null,
           "version": "6.2",
@@ -37,7 +36,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "solarbreeze",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Hildegaard Tollit",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -50,7 +48,7 @@
           "golive_date": "11/5/12"
         },
         {
-          "assetId": "int-105",
+          "id": "int-105",
           "name": "INT-105",
           "shortName": null,
           "version": "8.63",
@@ -58,7 +56,6 @@
           "payload": "Location Hierarchy",
           "targetApplicationId": "seemless",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Hannis Pantin",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -71,7 +68,7 @@
           "golive_date": "5/2/08"
         },
         {
-          "assetId": "int-217",
+          "id": "int-217",
           "name": "INT-217",
           "shortName": null,
           "version": "1.98",
@@ -79,7 +76,6 @@
           "payload": "cNcStatusUpdate",
           "targetApplicationId": "rightshoring_weblog",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gualterio Trevaskiss",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -92,7 +88,7 @@
           "golive_date": "15/3/13"
         },
         {
-          "assetId": "int-066",
+          "id": "int-066",
           "name": "INT-066",
           "shortName": null,
           "version": "0.7.9",
@@ -100,7 +96,6 @@
           "payload": "Allocation Results",
           "targetApplicationId": "talent_fruit",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Hannis Pantin",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -113,7 +108,7 @@
           "golive_date": "17/12/15"
         },
         {
-          "assetId": "int-079",
+          "id": "int-079",
           "name": "INT-079",
           "shortName": null,
           "version": "2.3",
@@ -121,7 +116,6 @@
           "payload": "CnCNotification",
           "targetApplicationId": "visibility_engine",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Hildegaard Tollit",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -134,7 +128,7 @@
           "golive_date": "14/11/15"
         },
         {
-          "assetId": "int-229",
+          "id": "int-229",
           "name": "INT-229",
           "shortName": null,
           "version": "0.3.2",
@@ -142,7 +136,6 @@
           "payload": "Cost - Landed Cost",
           "targetApplicationId": "solarbreeze",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Dominique Catling",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -155,7 +148,7 @@
           "golive_date": "27/1/08"
         },
         {
-          "assetId": "int-287",
+          "id": "int-287",
           "name": "INT-287",
           "shortName": null,
           "version": "7.9",
@@ -163,7 +156,6 @@
           "payload": "Future Movement - ASN Descrepancy",
           "targetApplicationId": "visibility_engine",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Adelice Passby",
           "decom_date": "27/5/18",
           "status_color": "#FF0000",
@@ -177,7 +169,7 @@
           "golive_date": "23/1/05"
         },
         {
-          "assetId": "int-052",
+          "id": "int-052",
           "name": "INT-052",
           "shortName": null,
           "version": "0.5.6",
@@ -185,7 +177,6 @@
           "payload": "Product Registration",
           "targetApplicationId": "rightshoring_weblog",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Andie MacVanamy",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -198,7 +189,7 @@
           "golive_date": "4/9/10"
         },
         {
-          "assetId": "int-443",
+          "id": "int-443",
           "name": "INT-443",
           "shortName": null,
           "version": "0.82",
@@ -206,7 +197,6 @@
           "payload": "Inventory Right-off",
           "targetApplicationId": "visibility_engine",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Hildegaard Tollit",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -219,7 +209,7 @@
           "golive_date": "19/1/17"
         },
         {
-          "assetId": "int-472",
+          "id": "int-472",
           "name": "INT-472",
           "shortName": null,
           "version": "9.06",
@@ -227,7 +217,6 @@
           "payload": "Inventory Adjustment Transactional Data",
           "targetApplicationId": "seemless",
           "categoryId": "cron",
-          "status": "standard",
           "sme_name": "Ramsey Tindle",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -240,7 +229,7 @@
           "golive_date": "22/4/17"
         },
         {
-          "assetId": "int-221",
+          "id": "int-221",
           "name": "INT-221",
           "shortName": null,
           "version": "1.01",
@@ -248,7 +237,6 @@
           "payload": "EP Measures",
           "targetApplicationId": "seemless",
           "categoryId": "cron",
-          "status": "standard",
           "sme_name": "Roland Elijah",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -261,7 +249,7 @@
           "golive_date": "2/4/15"
         },
         {
-          "assetId": "int-193",
+          "id": "int-193",
           "name": "INT-193",
           "shortName": null,
           "version": "0.5.5",
@@ -269,7 +257,6 @@
           "payload": "Invoice (Invoice, RCTI, Claims)",
           "targetApplicationId": "rightshoring_weblog",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Myranda McChruiter",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -282,7 +269,7 @@
           "golive_date": "6/10/09"
         },
         {
-          "assetId": "int-464",
+          "id": "int-464",
           "name": "INT-464",
           "shortName": null,
           "version": "5.37",
@@ -290,7 +277,6 @@
           "payload": "ASN",
           "targetApplicationId": "talent_fruit",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Roland Elijah",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -303,7 +289,7 @@
           "golive_date": "9/6/07"
         },
         {
-          "assetId": "int-092",
+          "id": "int-092",
           "name": "INT-092",
           "shortName": null,
           "version": "6.8.4",
@@ -311,7 +297,6 @@
           "payload": "Product UPC",
           "targetApplicationId": "solarbreeze",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gilberto Thompkins",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -324,7 +309,7 @@
           "golive_date": "2/8/11"
         },
         {
-          "assetId": "int-498",
+          "id": "int-498",
           "name": "INT-498",
           "shortName": null,
           "version": "9.2",
@@ -332,7 +317,6 @@
           "payload": "Markup/Down Backdated Markup/Down",
           "targetApplicationId": "rightshoring_weblog",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Matelda Nuss",
           "status_color": "#FFFF00",
           "department": "Integration",
@@ -345,7 +329,7 @@
           "golive_date": "4/6/10"
         },
         {
-          "assetId": "int-234",
+          "id": "int-234",
           "name": "INT-234",
           "shortName": null,
           "version": "1.4",
@@ -353,7 +337,6 @@
           "payload": "Allocation Results",
           "targetApplicationId": "hyperlocal",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Guenna Kix",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -366,7 +349,7 @@
           "golive_date": "24/3/02"
         },
         {
-          "assetId": "int-366",
+          "id": "int-366",
           "name": "INT-366",
           "shortName": null,
           "version": "2.71",
@@ -374,7 +357,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "talent_fruit",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Flem Mungan",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -387,7 +369,7 @@
           "golive_date": "28/9/15"
         },
         {
-          "assetId": "int-046",
+          "id": "int-046",
           "name": "INT-046",
           "shortName": null,
           "version": "0.38",
@@ -395,7 +377,6 @@
           "payload": "Pack Description",
           "targetApplicationId": "seemless",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Jessa Boncore",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -408,7 +389,7 @@
           "golive_date": "29/6/09"
         },
         {
-          "assetId": "int-163",
+          "id": "int-163",
           "name": "INT-163",
           "shortName": null,
           "version": "0.36",
@@ -416,7 +397,6 @@
           "payload": "Colour",
           "targetApplicationId": "visibility_engine",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Isacco Tucker",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -429,7 +409,7 @@
           "golive_date": "30/4/15"
         },
         {
-          "assetId": "int-289",
+          "id": "int-289",
           "name": "INT-289",
           "shortName": null,
           "version": "0.2.3",
@@ -437,7 +417,6 @@
           "payload": "Product Hierarchy Extract",
           "targetApplicationId": "solarbreeze",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Preston Shortland",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -450,7 +429,7 @@
           "golive_date": "20/12/16"
         },
         {
-          "assetId": "int-320",
+          "id": "int-320",
           "name": "INT-320",
           "shortName": null,
           "version": "0.8.7",
@@ -458,7 +437,6 @@
           "payload": "Colour",
           "targetApplicationId": "talent_fruit",
           "categoryId": "email",
-          "status": "standard",
           "sme_name": "Gualterio Trevaskiss",
           "status_color": "#00FF00",
           "department": "App Control",
